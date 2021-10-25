@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="egg_name_text_size">42sp</dimen>
+    <dimen name="size_timer_text_view">56sp</dimen>
+    <dimen name="start_button_text_size">24sp</dimen>
+    <dimen name="margin_egg_image">44dp</dimen>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Таймер яиц</string>
+    <string name="soft_boiled">В смятку</string>
+    <string name="medium_boiled">В мешочек</string>
+    <string name="hard_boiled">В крутую</string>
+    <string name="imageDescription">Изображение яйца</string>
+    <string name="start_button_text">СТАРТ</string>
+    <string name="stop_button_text">СТОП</string>
+    <string name="bon_appetit">Приятного аппетита</string>
+
+    <string name="notification_title">Ваши яйца готовы</string>
+    <string name="eggs_ready">Приятного аппетита</string>
+
+    <string name="egg_notification_channel_id" translatable="false">egg_channel</string>
+    <string name="egg_notification_channel_name" translatable="true">Яйца</string>
+    <string name="breakfast_notification_channel_description">Напоминание о завтраке</string>
+</resources>

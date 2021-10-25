@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Egg Timer</string>
+    <string name="soft_boiled">Soft boiled</string>
+    <string name="medium_boiled">Medium boiled</string>
+    <string name="hard_boiled">Hard boiled</string>
+    <string name="imageDescription">egg image</string>
+    <string name="start_button_text">START</string>
+    <string name="stop_button_text">STOP</string>
+    <string name="bon_appetit">Bon Appetit</string>
+
+    <string name="notification_title">Your eggs are ready</string>
+    <string name="eggs_ready">Bon Appetit</string>
+
+    <string name="egg_notification_channel_id" translatable="false">egg_channel</string>
+    <string name="egg_notification_channel_name" translatable="true">Egg</string>
+    <string name="breakfast_notification_channel_description">Breakfast reminder</string>
+</resources>
