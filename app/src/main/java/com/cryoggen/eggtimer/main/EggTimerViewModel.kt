@@ -21,7 +21,7 @@ import kotlinx.coroutines.withContext
 class EggTimerViewModel(eggTypeNumberInOrder: Int, private val app: Application) :
     AndroidViewModel(app) {
     var eggs = mutableListOf(
-        Egg(app.resources.getString(R.string.soft_boiled), R.drawable.scrambled, 10),
+        Egg(app.resources.getString(R.string.soft_boiled), R.drawable.scrambled, 180),
         Egg(app.resources.getString(R.string.medium_boiled), R.drawable.medium_timed, 300),
         Egg(app.resources.getString(R.string.hard_boiled), R.drawable.hard_boiled, 540)
     )
