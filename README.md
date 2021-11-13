@@ -9,6 +9,7 @@ When the timer expires, it gives a notification along with a sound signal (even 
 ![Screenshot 1](/screenshots/unnamed1.png)
 ![Screenshot 2](/screenshots/unnamed2.png)
 ![Screenshot 3](/screenshots/unnamed3.png)
+![Screenshot 3](/screenshots/unnamed4.png)
 
 ### Installation
 
