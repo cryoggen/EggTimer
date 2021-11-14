@@ -19,7 +19,7 @@ To get the project running on your local machine, you need to follow these steps
 
 Use this to clone it to your local machine:
 ```bash
-git clone https://github.com/Sergey-Svetlov/EggTimer
+git clone https://github.com/cryoggen/EggTimer
 ```
 
 **Step 2: Check out the ‘master’ branch**
